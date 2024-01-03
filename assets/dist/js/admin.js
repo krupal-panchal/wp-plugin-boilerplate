@@ -1,0 +1,1 @@
+function admin_fn(){}
